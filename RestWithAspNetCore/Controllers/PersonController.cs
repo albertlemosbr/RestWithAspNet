@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using RestWithAspNetCore.Services;
 using RestWithAspNetCore.Models;
@@ -44,10 +40,9 @@ namespace RestWithAspNetCore.Controllers
             return Ok(_personService.Create(person));
         }
 
-        [HttpPut("{id}")] 
+        [HttpPut] 
         public IActionResult Put([FromBody] Person person)
         {
-            var person = _personService.FindById(id);
             if (person == null) return BadRequest();
             return Ok(_personService.Update(person));
         }

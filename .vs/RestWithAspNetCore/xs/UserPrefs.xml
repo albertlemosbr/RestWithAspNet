@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{170296D1-D284-490A-BE0E-8C3B4AF82FB5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestWithAspNetCore/Services/Implementations/PersonServiceImplementation.cs">
+    <Files>
+      <File FileName="RestWithAspNetCore/Models/Person.cs" Line="1" Column="1" />
+      <File FileName="RestWithAspNetCore/Controllers/PersonController.cs" Line="1" Column="1" />
+      <File FileName="RestWithAspNetCore/Services/Implementations/PersonServiceImplementation.cs" Line="37" Column="41" />
+      <File FileName="RestWithAspNetCore/Models/Context/MySQLContext.cs" Line="16" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RestWithAspNetCore" expanded="True">
+            <Node name="RestWithAspNetCore" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Context" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="Implementations" expanded="True">
+                  <Node name="PersonServiceImplementation.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RestWithAspNetCore PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

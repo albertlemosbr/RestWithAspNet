@@ -26,3 +26,12 @@
 /Users/albertlemos/Desktop/dotnet/RestWithAspNetCore/RestWithAspNetCore/obj/Debug/net5.0/ref/RestWithAspNetCore.dll
 /Users/albertlemos/Desktop/dotnet/RestWithAspNetCore/RestWithAspNetCore/obj/Debug/net5.0/RestWithAspNetCore.pdb
 /Users/albertlemos/Desktop/dotnet/RestWithAspNetCore/RestWithAspNetCore/obj/Debug/net5.0/RestWithAspNetCore.genruntimeconfig.cache
+/Users/albertlemos/Desktop/dotnet/RestWithAspNetCore/RestWithAspNetCore/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/albertlemos/Desktop/dotnet/RestWithAspNetCore/RestWithAspNetCore/bin/Debug/net5.0/Microsoft.Bcl.HashCode.dll
+/Users/albertlemos/Desktop/dotnet/RestWithAspNetCore/RestWithAspNetCore/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/albertlemos/Desktop/dotnet/RestWithAspNetCore/RestWithAspNetCore/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/albertlemos/Desktop/dotnet/RestWithAspNetCore/RestWithAspNetCore/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/albertlemos/Desktop/dotnet/RestWithAspNetCore/RestWithAspNetCore/bin/Debug/net5.0/MySqlConnector.dll
+/Users/albertlemos/Desktop/dotnet/RestWithAspNetCore/RestWithAspNetCore/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/albertlemos/Desktop/dotnet/RestWithAspNetCore/RestWithAspNetCore/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/albertlemos/Desktop/dotnet/RestWithAspNetCore/RestWithAspNetCore/bin/Debug/net5.0/Pomelo.JsonObject.dll
