@@ -11,6 +11,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using RestWithAspNetCore.Services;
+using RestWithAspNetCore.Services.Implementations;
 
 namespace RestWithAspNetCore
 {
@@ -28,6 +30,7 @@ namespace RestWithAspNetCore
         {
 
             services.AddControllers();
+            services.AddScoped<IPersonService, PersonServiceImplementation>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "RestWithAspNetCore", Version = "v1" });
